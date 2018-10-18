@@ -4,3 +4,4 @@ Capacitacion Git UND
 Capacitación: Git, bash y docker
 Integrantes:
 - Jose Carrasco
+- Michael Tenorio
